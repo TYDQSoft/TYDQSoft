@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-436173132(Tencent QQ Golang programming language developer discussion group)
+A small person who want to making linker,assembler,compiler,operating system and browser in his operating system.  
+But it is tough and this guy don't know when to accomplish.  
